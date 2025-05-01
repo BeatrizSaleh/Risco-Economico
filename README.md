@@ -1,1 +1,4 @@
 # Risco-Economico
+
+Este projeto constrói um índice sintético de condições econômicas globais por região (como G7, BRICS e emergentes), a partir de uma seleção de indicadores macroeconômicos relevantes: PIB real, inflação, desemprego e taxa de juros. O índice é calculado utilizando Análise de Componentes Principais (PCA), uma técnica estatística que combina múltiplas séries em um único indicador capaz de resumir a variação conjunta desses dados ao longo do tempo. O objetivo é fornecer um barômetro macroeconômico que permita acompanhar a evolução geral da atividade e do risco econômico em diferentes regiões, facilitando comparações, análise de ciclos e tomada de decisão. A visualização interativa via Shiny permite explorar a dinâmica do índice por região, com dados atualizados e visualização intuitiva.
+
